@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[67352,["/Rental-Cars/_next/static/chunks/0h0--93_wxr7p.js","/Rental-Cars/_next/static/chunks/0g56na553qldj.js","/Rental-Cars/_next/static/chunks/0y5l.-_pqqau8.js"],"ClientPageRoot"]
-3:I[38758,["/Rental-Cars/_next/static/chunks/0h0--93_wxr7p.js","/Rental-Cars/_next/static/chunks/0g56na553qldj.js","/Rental-Cars/_next/static/chunks/0y5l.-_pqqau8.js","/Rental-Cars/_next/static/chunks/0yopry_gkv3-6.js"],"default"]
-6:I[67366,["/Rental-Cars/_next/static/chunks/0h0--93_wxr7p.js","/Rental-Cars/_next/static/chunks/0g56na553qldj.js","/Rental-Cars/_next/static/chunks/0y5l.-_pqqau8.js"],"OutletBoundary"]
+2:I[20756,["/Rental-Cars/_next/static/chunks/052_.pg30gk-4.js","/Rental-Cars/_next/static/chunks/08ya7lwztkscw.js","/Rental-Cars/_next/static/chunks/02r42g2cl_8bz.js"],"ClientPageRoot"]
+3:I[50600,["/Rental-Cars/_next/static/chunks/052_.pg30gk-4.js","/Rental-Cars/_next/static/chunks/08ya7lwztkscw.js","/Rental-Cars/_next/static/chunks/02r42g2cl_8bz.js","/Rental-Cars/_next/static/chunks/0lh3sxnj00ubn.js"],"default"]
+6:I[12308,["/Rental-Cars/_next/static/chunks/052_.pg30gk-4.js","/Rental-Cars/_next/static/chunks/08ya7lwztkscw.js","/Rental-Cars/_next/static/chunks/02r42g2cl_8bz.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Rental-Cars/_next/static/chunks/0yopry_gkv3-6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-7OSmPa6vV52ZauujR5Bc"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Rental-Cars/_next/static/chunks/0lh3sxnj00ubn.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2axKvwsUs-6XYpaNTYS1q"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
