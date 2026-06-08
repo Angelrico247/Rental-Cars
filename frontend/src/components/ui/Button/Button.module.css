@@ -1,0 +1,45 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 12px 28px;
+  border-radius: var(--radius-premium);
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  letter-spacing: 0.03em;
+  text-transform: uppercase; /* Estilo deportivo/elegante */
+}
+
+/* Variante Principal (Bronze Fill) */
+.primary {
+  background-color: var(--accent);
+  color: #000000;
+  border: none;
+}
+
+.primary:hover {
+  background-color: var(--accent-hover);
+  transform: translateY(-2px); /* Efecto sutil de flotado */
+}
+
+/* Variante Secundaria (Outline Elegante) */
+.outline {
+  background-color: transparent;
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+.outline:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-color: var(--text-primary);
+}
+
+/* Deshabilitado */
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+}

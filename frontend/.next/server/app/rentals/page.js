@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/rentals/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0~l3cgf._.js")
+R.c("server/chunks/ssr/0n1a_next_dist_esm_build_templates_app-page_0yuxf0q.js")
+R.c("server/chunks/ssr/[root-of-the-server]__01~4qnr._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__003ghah._.js")
+R.c("server/chunks/ssr/Desktop_devs_rental_cars_frontend_src_0fupn0f._.js")
+R.c("server/chunks/ssr/0n1a_next_dist_client_components_090rz~b._.js")
+R.c("server/chunks/ssr/0n1a_next_dist_client_components_builtin_forbidden_055ov5v.js")
+R.c("server/chunks/ssr/0n1a_next_dist_client_components_builtin_unauthorized_06q8a-5.js")
+R.c("server/chunks/ssr/0n1a_next_dist_client_components_builtin_global-error_0tfxi8y.js")
+R.c("server/chunks/ssr/12dh_rental_cars_frontend__next-internal_server_app_rentals_page_actions_09-w~9_.js")
+R.m(15750)
+module.exports=R.m(15750).exports

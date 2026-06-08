@@ -1,0 +1,14 @@
+# Dependencias y entorno
+node_modules/
+.pnpm-store/
+.env
+.env.local
+.npmrc
+
+# Next.js build y caché (Los que te daban error de 200MB)
+frontend/.next/
+frontend/out/
+
+# Archivos de sistema
+.DS_Store
+*.log
