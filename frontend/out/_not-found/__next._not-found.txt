@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[24367,["/Rental-Cars/_next/static/chunks/0h0--93_wxr7p.js","/Rental-Cars/_next/static/chunks/0g56na553qldj.js","/Rental-Cars/_next/static/chunks/0y5l.-_pqqau8.js"],"default"]
-3:I[79499,["/Rental-Cars/_next/static/chunks/0h0--93_wxr7p.js","/Rental-Cars/_next/static/chunks/0g56na553qldj.js","/Rental-Cars/_next/static/chunks/0y5l.-_pqqau8.js"],"default"]
-4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"kVKvxvdeojjQbhhmkFxSQ"}
