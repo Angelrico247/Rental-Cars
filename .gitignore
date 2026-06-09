@@ -1,12 +1,6 @@
-# Dependencias
-frontend/node_modules/
-frontend/.pnpm/
-
-# Builds y producción de Next.js
-frontend/.next/
-frontend/out/
-
-# Archivos de entorno / Locales
-frontend/.env*.local
-frontend/.DS_Store
+node_modules/
+.pnpm/
+.next/
+out/
+.env*.local
 .DS_Store
