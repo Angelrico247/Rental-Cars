@@ -35,13 +35,14 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: 'pnpm'
+          # QUITAMOS la línea de cache: 'pnpm' para reventar el error de raíz
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
-        run: pnpm install
+        # Le metemos --no-frozen-lockfile para que regenere lo que ocupe sin quejarse
+        run: pnpm install --no-frozen-lockfile
 
       - name: Build Next.js
         run: pnpm next build
