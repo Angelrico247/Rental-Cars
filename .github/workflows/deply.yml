@@ -18,27 +18,25 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps: deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v4
         with:
           version: 9
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-main-version: 20
+          node-version: 20
           cache: 'pnpm'
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          static_site_generator: next
+        uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: pnpm install
