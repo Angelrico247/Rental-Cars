@@ -5,7 +5,7 @@ const nextConfig = {
     unoptimized: true,
   },
   // Probemos poniéndolo todo en minúsculas que es como GitHub Pages suele resolver las rutas de assets
-  basePath: '/Rental_Cars', 
+  basePath: '/Rental-Cars', 
 };
 
 export default nextConfig;
