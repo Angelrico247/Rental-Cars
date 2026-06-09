@@ -1,2 +1,2 @@
-:HL["/rental_cars/_next/static/chunks/1595utudf5f35.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"y8goLmyyacjpsbyq8tAQj"}
+:HL["/rental_cars/_next/static/chunks/0q~i-t311ufmq.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PFRUEy36NBEUE3Oxr-9UE"}
