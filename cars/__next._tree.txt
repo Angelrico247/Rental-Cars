@@ -1,2 +1,2 @@
-:HL["/Rental-Cars/_next/static/chunks/0q~i-t311ufmq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cars","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"AkaYmWJgwNB4tTT4vHBZr"}
+:HL["/Rental-Cars/_next/static/chunks/09kdeohiinue-.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cars","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"3yXOheERnIc-uTxpGi0FJ"}
