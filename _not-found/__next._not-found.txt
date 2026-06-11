@@ -2,4 +2,4 @@
 2:I[70043,["/Rental-Cars/_next/static/chunks/052_.pg30gk-4.js","/Rental-Cars/_next/static/chunks/08ya7lwztkscw.js","/Rental-Cars/_next/static/chunks/02r42g2cl_8bz.js"],"default"]
 3:I[52215,["/Rental-Cars/_next/static/chunks/052_.pg30gk-4.js","/Rental-Cars/_next/static/chunks/08ya7lwztkscw.js","/Rental-Cars/_next/static/chunks/02r42g2cl_8bz.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"TPe9DZEeSAISmtyXANuNZ"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"rwdLWF6eNxHO6JpkfOqxZ"}
