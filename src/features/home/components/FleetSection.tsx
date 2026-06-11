@@ -4,12 +4,18 @@ import React, { useState } from "react";
 import { Modal } from "../../../components/ui/Modal"; // Ajustado si usas export nombrado
 
 const FLEET_IMAGES = [
-  "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?q=80&w=600",
-  "https://images.unsplash.com/photo-1617788138017-80ad40651399?q=80&w=600",
-  "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=600",
-  "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?q=80&w=600",
-  "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=600",
-  "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?q=80&w=600",
+  // 1. Audi Sedan (Gris metálico, súper ejecutivo)
+  "https://images.unsplash.com/photo-1606595885348-ba2703224d86?q=80&w=600",
+  // 2. BMW 3 Series / M3 (Frente agresivo, premium)
+  "https://images.unsplash.com/photo-1555215695-3004980ad54e?q=80&w=600",
+  // 3. Mercedes-Benz Clase C/E (Elegancia pura en la ciudad)
+  "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?q=80&w=600",
+  // 4. Honda Accord (El rey del confort elegante)
+  "https://images.unsplash.com/photo-1708151458941-cfcb0fbffefd?q=80&w=600",
+  // 5. Audi SUV / Q8 (Para los que quieren espacio pero premium)
+  "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?q=80&w=600",
+  // 6. BMW Coupe (Silueta limpia de perfil)
+  "https://images.unsplash.com/photo-1616422285623-13ff0162193c?q=80&w=600",
 ];
 
 export function FleetSection() {

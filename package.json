@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "pnpm build",
-    "deploy": "next build && gh-pages -d out"
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out --dotfiles"
   },
   "keywords": [],
   "author": "",
@@ -40,12 +40,6 @@
     "postcss": "^8.5.14",
     "tailwindcss": "^4.3.0",
     "typescript": "^6.0.3"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "sharp"
-    ]
   }
-
   
 }
