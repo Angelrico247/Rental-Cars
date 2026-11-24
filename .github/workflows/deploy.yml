@@ -40,8 +40,11 @@ jobs:
         run: pnpm exec next build
 
       - name: Publish to gh-pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           touch out/.nojekyll
           pnpm exec gh-pages -d out --dotfiles \
+            -r "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
             -u "GitHub Actions <actions@github.com>" \
             -m "Deploy ${GITHUB_SHA::7}"
