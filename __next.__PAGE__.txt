@@ -3,5 +3,5 @@
 3:I[46468,["/Rental-Cars/_next/static/chunks/0.x54otzq5w7b.js","/Rental-Cars/_next/static/chunks/0dbs6odpy.-~u.js","/Rental-Cars/_next/static/chunks/10ncx8p1uu20r.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/Rental-Cars/_next/static/chunks/0o6wtiuoxlb~y.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/Rental-Cars/_next/static/chunks/0o6wtiuoxlb~y.css","precedence":"next"}],["$","script","script-0",{"src":"/Rental-Cars/_next/static/chunks/0h-2nudj9jwph.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hrmprD5Q80HMsCKgBSKrW"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/Rental-Cars/_next/static/chunks/0o6wtiuoxlb~y.css","precedence":"next"}],["$","script","script-0",{"src":"/Rental-Cars/_next/static/chunks/0h-2nudj9jwph.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"8X_wL5lsux8VVHWuD3mlw"}
 5:null
