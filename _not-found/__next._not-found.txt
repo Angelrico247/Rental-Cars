@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[26346,["/Rental-Cars/_next/static/chunks/04lrtypp4dn_7.js","/Rental-Cars/_next/static/chunks/0ja6fdzwj5g9f.js","/Rental-Cars/_next/static/chunks/0hhpftw5r83er.js"],"default"]
-3:I[56956,["/Rental-Cars/_next/static/chunks/04lrtypp4dn_7.js","/Rental-Cars/_next/static/chunks/0ja6fdzwj5g9f.js","/Rental-Cars/_next/static/chunks/0hhpftw5r83er.js"],"default"]
+2:I[19191,["/Rental-Cars/_next/static/chunks/0.x54otzq5w7b.js","/Rental-Cars/_next/static/chunks/0dbs6odpy.-~u.js","/Rental-Cars/_next/static/chunks/10ncx8p1uu20r.js"],"default"]
+3:I[1708,["/Rental-Cars/_next/static/chunks/0.x54otzq5w7b.js","/Rental-Cars/_next/static/chunks/0dbs6odpy.-~u.js","/Rental-Cars/_next/static/chunks/10ncx8p1uu20r.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"iqcI-yByp6EssEbVPL1FM"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"eTgCZhTxRI08Td95UHVuV"}
