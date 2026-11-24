@@ -43,5 +43,5 @@ jobs:
         run: |
           touch out/.nojekyll
           pnpm exec gh-pages -d out --dotfiles \
-            -u "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" \
+            -u "GitHub Actions <actions@github.com>" \
             -m "Deploy ${GITHUB_SHA::7}"
